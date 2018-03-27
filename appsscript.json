@@ -1,6 +1,0 @@
-{
-  "timeZone": "America/Phoenix",
-  "dependencies": {
-  },
-  "exceptionLogging": "STACKDRIVER"
-}
